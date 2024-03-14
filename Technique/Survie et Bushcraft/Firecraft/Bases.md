@@ -40,7 +40,7 @@ La réalisation d'un baton hérisson se fait avec un couteau sur une matière s�
 > Ce n'est pas grave si certaines lamelles tombent ils peuvent toujours être utilisé plus tard.
 
 Une fois le hérisson bien garni on peut l'utiliser comme allume-feu. 
-## Feu de camp pour cuisson rapide
+## Feu de camp rapide pour cuisson 
 
 On commence par former un carré avec quatre piquet dans le sol, avec un diamètre de 3cm et espacé d'environ 12cm, puis on empile le bois couche par couche en alternant de 90°. 
 
