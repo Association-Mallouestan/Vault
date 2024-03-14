@@ -51,7 +51,8 @@
     - Antibiotiques
     - Antidouleur faible (Doliprane) 
     - Antidouleur fort (Tramadol)
-30. Trousse de toilette
+    - Pansements Strips 
+1. Trousse de toilette
 
 ## Navigation
 31. Boussole
