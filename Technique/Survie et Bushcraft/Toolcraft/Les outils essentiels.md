@@ -52,7 +52,7 @@
     - Antidouleur faible (Doliprane) 
     - Antidouleur fort (Tramadol)
     - Pansements Strips 
-1. Trousse de toilette
+30. Trousse de toilette
 
 ## Navigation
 31. Boussole
