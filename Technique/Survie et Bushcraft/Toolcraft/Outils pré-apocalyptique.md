@@ -13,3 +13,5 @@ Elle étends la liste des outils essentiels
 1. Panneau solaire
 2. Connectiques (Chargeur...)
 3. Téléphone basique
+4. Vélo cyclotourisme équipé
+5. Pochette imperméable documents (ignifuge si possible)
