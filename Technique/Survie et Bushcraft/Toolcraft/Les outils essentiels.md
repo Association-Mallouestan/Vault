@@ -29,17 +29,17 @@
 20. Tapis de sol (mousse)
 21. Housse étanche pour sac
 22. Popote
-23. Réchaud
 
 ## Général
-24. Couteau
+23. Couteau
 25. Paracorde ou équivalent (50m)
 26. Gourde
 27. Bloc notes
 28. Stylo x2
+29. Pierre à feu 
 
 ## Soins
-29. Trousse de secours
+30. Trousse de secours
     - Désinfectant
     - Gaze
     - Attelle semi-rigide
@@ -52,9 +52,9 @@
     - Antidouleur faible (Doliprane) 
     - Antidouleur fort (Tramadol)
     - Pansements Strips 
-30. Trousse de toilette
+31. Trousse de toilette
 
 ## Navigation
-31. Boussole
-32. Altimètre
-33. Housse pour carte
+32. Boussole
+33. Altimètre
+34. Housse pour carte
