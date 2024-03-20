@@ -4,20 +4,20 @@
 
 Le meilleur endroit où trouver du bois sec est dans les arbres. Les branches mortes reste loin de l'humidité du sol et sont facile à prélever. Parfois on peut même trouver des arbre entier morts sur pied.
 
-> Le bois mort et sec se reconnait au fait qu'il casse net et ne s'éfiloche pas ou peux.
+> Le bois mort et sec se reconnait au fait qu'il casse net et où les fibres cassent facilement et ne sont pas vertes.
 
 > Par temps humide que le bois vienne des arbres ou du sol on le fend avec le couteau pour en extraire, au coeur des branche, le bois sec.
 
 ![Feathersticks_ND2_5671.jpg](./Images/Feathersticks_ND2_5671.jpg)
 ## Taille du bois
-Un feu s'allume avec du bois de petite taille puis en augmentant le diamêtre doucement. Il peut parfois être difficile de s'y retrouver voici ci desous un guide  
+Un feu s'allume avec du bois de petite taille puis en augmentant le diamêtre doucement. Il peut parfois être difficile de s'y retrouver voici donc, ci desous, un guide  
 ### Phase 1 
 
 Le matériau est du petit bois, on commence avec des tailles croissantes : 
 1. la taille d'une allumette 
 2. la taille d'un crayon 
-3. de la taille d'un doigt 
-4. de la taille d'un pouce. 
+3. la taille d'un doigt 
+4. la taille d'un pouce. 
 
 > Si on peine à trouver suffisamment de matériau pour la phase 1, on utilise son couteau pour en prélever sur un matériau plus gros.
 
@@ -35,7 +35,7 @@ Le matériau de cette phase 3 sert à entretenir votre feu, des morceaux plus gr
 
 ![[Feathersticks_ND2_5757.jpg]]
 
-La réalisation d'un baton hérisson se fait avec un couteau sur une matière sèches. Il faut trouvez une branche morte d'environ 4 cm de diamètre. On la divise en quart grâce à notre couteau. Puis nous attaquons le hérisson sur un des quarts.  Le hérisson se forme en créant des fines lamelles de bois sur la partie qui étais au centre de notre baton originale. Les lamelles, vers le fin ne sont pas censé être séparer du quart et y reste fixés côte à côte.
+La réalisation d'un baton hérisson se fait avec un couteau sur une matière sèches. Il faut trouvez une branche morte d'environ 3 cm de diamètre. On la divise en quart grâce à notre couteau. Puis nous attaquons le hérisson sur un des quarts.  Le hérisson se forme en créant des fines lamelles de bois sur la partie qui étais au centre de notre baton originale. Les lamelles, vers le fin ne sont pas censé être séparer du quart et y reste fixés côte à côte.
 
 > Ce n'est pas grave si certaines lamelles tombent ils peuvent toujours être utilisé plus tard.
 
