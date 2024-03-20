@@ -3,8 +3,6 @@
 ## Gestion des ressources
 1. Hache
 2. Serpe
-3. Fauchon
-4. Fixation pour faux
 
 ## Entretien
 5. Lime ronde ou semi-ronde 
